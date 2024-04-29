@@ -1,4 +1,4 @@
-package com.kookie.eee_design.ui.theme
+package com.kookie.eee_design.ui.theme.theme
 
 import androidx.compose.ui.graphics.Color
 

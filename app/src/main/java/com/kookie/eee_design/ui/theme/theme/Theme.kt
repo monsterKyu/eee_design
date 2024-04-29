@@ -1,4 +1,4 @@
-package com.kookie.eee_design.ui.theme
+package com.kookie.eee_design.ui.theme.theme
 
 import android.app.Activity
 import android.os.Build
